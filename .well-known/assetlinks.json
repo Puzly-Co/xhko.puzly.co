@@ -1,0 +1,14 @@
+[
+	{
+		"relation": [
+			"delegate_permission/common.handle_all_urls"
+		],
+		"target": {
+			"namespace": "android_app",
+			"package_name": "co.puzly.xhko",
+			"sha256_cert_fingerprints": [
+				"AA:5F:74:3D:8D:6D:ED:31:34:02:FD:C9:3A:8B:5D:22:56:FE:8F:FF:9F:5B:60:D9:C2:A0:0A:DB:B6:47:B5:19"
+			]
+		}
+	}
+]

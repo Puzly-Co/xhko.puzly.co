@@ -1,0 +1,22 @@
+{
+	"applinks": {
+		"details": [
+			{
+				"appIDs": [
+					"UC9RM2H3ML.co.puzly.bhko"
+				],
+				"components": [
+					{
+						"/": "/puzzle/*",
+						"comment": "Matches any URL with a path that starts with /puzzle/."
+					},
+					{
+						"/": "/tr/*",
+						"exclude": true,
+						"comment": "Matches any URL with a path that starts with /tr/ and instructs the system not to open it as a universal link."
+					}
+				]
+			}
+		]
+	}
+}
