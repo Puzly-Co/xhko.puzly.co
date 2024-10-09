@@ -2,44 +2,6 @@
 	"latest_build": 2,
 	"min_supported_build": 1,
 	"store_url": "https://apps.apple.com/app/be%C5%9F-harfli-kelime-oyunu/id6596769905",
-	"other_languages": [
-		{
-			"name": "Five-Letter Word Game",
-			"language": "English",
-			"url": "https://apps.apple.com/app/co.puzly.flwg",
-			"status": "beta"
-		},
-		{
-			"name": "Беш Тамгалуу Сөз Оюну",
-			"language": "Кыргызча",
-			"url": "https://apps.apple.com/app/co.puzly.btso",
-			"status": "beta"
-		}
-	],
-	"other_games": [
-		{
-			"name": "Altı Harfli Kelime Oyunu",
-			"language": "Türkçe",
-			"url": "https://apps.apple.com/app/co.puzly.ahko",
-			"status": "beta"
-		},
-		{
-			"name": "Dört Harfli Kelime Oyunu",
-			"language": "Türkçe",
-			"url": "https://apps.apple.com/app/co.puzly.dhko",
-			"status": "beta"
-		}
-	],
-	"custom_ads": {},
-	"first_puzzle_month": {
-		"month": 12,
-		"year": 2022
-	},
-	"latest_puzzle_month": {
-		"month": 12,
-		"year": 2024
-	},
-	"latest_dictionary_version": 1,
 	"date_api": "https://timeapi.io/api/Time/current/zone?timeZone=Etc/UTC",
 	"date_api_fallback": "https://worldtimeapi.org/api/timezone/Etc/UTC"
 }
