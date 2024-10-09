@@ -1,0 +1,40 @@
+{
+	"other_languages": [
+		{
+			"name": "Altı Harfli Kelime Oyunu",
+			"language": "Türkçe",
+			"url": "https://play.google.com/store/apps/details?id=co.puzly.ahko",
+			"status": "released"
+		},
+		{
+			"name": "Six-Letter Word Puzzle",
+			"language": "English",
+			"url": "https://play.google.com/store/apps/details?id=co.puzly.slwp",
+			"status": "released"
+		}
+	],
+	"other_games": [
+		{
+			"name": "Төрт Тамгалуу Сөз Оюну",
+			"language": "Кыргызча",
+			"url": "https://play.google.com/store/apps/details?id=co.puzly.ttso",
+			"status": "released"
+		},
+		{
+			"name": "Беш Тамгалуу Сөз Оюну",
+			"language": "Кыргызча",
+			"url": "https://play.google.com/store/apps/details?id=co.puzly.btso",
+			"status": "released"
+		}
+	],
+	"custom_ads": {},
+	"first_puzzle_month": {
+		"month": 1,
+		"year": 2024
+	},
+	"latest_puzzle_month": {
+		"month": 12,
+		"year": 2024
+	},
+	"dictionary_version": 1
+}

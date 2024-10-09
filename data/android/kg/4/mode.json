@@ -1,0 +1,40 @@
+{
+	"other_languages": [
+		{
+			"name": "Dört Harfli Kelime Oyunu",
+			"language": "Türkçe",
+			"url": "https://play.google.com/store/apps/details?id=co.puzly.dhko",
+			"status": "released"
+		},
+		{
+			"name": "Four-Letter Word Puzzle",
+			"language": "English",
+			"url": "https://play.google.com/store/apps/details?id=co.puzly.folwp",
+			"status": "released"
+		}
+	],
+	"other_games": [
+		{
+			"name": "Беш Тамгалуу Сөз Оюну",
+			"language": "Кыргызча",
+			"url": "https://play.google.com/store/apps/details?id=co.puzly.btso",
+			"status": "released"
+		},
+		{
+			"name": "Алты Тамгалуу Сөз Оюну",
+			"language": "Кыргызча",
+			"url": "https://play.google.com/store/apps/details?id=co.puzly.atso",
+			"status": "released"
+		}
+	],
+	"custom_ads": {},
+	"first_puzzle_month": {
+		"month": 1,
+		"year": 2024
+	},
+	"latest_puzzle_month": {
+		"month": 12,
+		"year": 2024
+	},
+	"dictionary_version": 1
+}
