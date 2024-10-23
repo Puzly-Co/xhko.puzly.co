@@ -1,29 +1,21 @@
 {
-	"other_languages": [
-		{
-			"name": "Beş Harfli Kelime Oyunu",
-			"language": "Türkçe",
-			"url": "https://apps.apple.com/app/co.puzly.bhko",
-			"status": "released"
-		},
-		{
-			"name": "Беш Тамгалуу Сөз Оюну",
-			"language": "Кыргызча",
-			"url": "https://apps.apple.com/app/co.puzly.btso",
-			"status": "released"
-		}
-	],
 	"other_games": [
 		{
 			"name": "Four-Letter Word Puzzle",
 			"language": "English",
-			"url": "https://apps.apple.com/app/co.puzly.folwp",
+			"url": "https://play.google.com/store/apps/details?id=co.puzly.folwp",
+			"status": "released"
+		},
+		{
+			"name": "Five-Letter Word Puzzle",
+			"language": "English",
+			"url": "https://play.google.com/store/apps/details?id=co.puzly.flwp",
 			"status": "released"
 		},
 		{
 			"name": "Six-Letter Word Puzzle",
 			"language": "English",
-			"url": "https://apps.apple.com/app/co.puzly.slwp",
+			"url": "https://play.google.com/store/apps/details?id=co.puzly.slwp",
 			"status": "released"
 		}
 	],

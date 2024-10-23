@@ -1,23 +1,15 @@
 {
-	"other_languages": [
-		{
-			"name": "Five-Letter Word Puzzle",
-			"language": "English",
-			"url": "https://play.google.com/store/apps/details?id=co.puzly.flwp",
-			"status": "released"
-		},
-		{
-			"name": "Беш Тамгалуу Сөз Оюну",
-			"language": "Кыргызча",
-			"url": "https://play.google.com/store/apps/details?id=co.puzly.btso",
-			"status": "released"
-		}
-	],
 	"other_games": [
 		{
 			"name": "Dört Harfli Kelime Oyunu",
 			"language": "Türkçe",
 			"url": "https://play.google.com/store/apps/details?id=co.puzly.dhko",
+			"status": "released"
+		},
+		{
+			"name": "Beş Harfli Kelime Oyunu",
+			"language": "Türkçe",
+			"url": "https://play.google.com/store/apps/details?id=co.puzly.bhko",
 			"status": "released"
 		},
 		{

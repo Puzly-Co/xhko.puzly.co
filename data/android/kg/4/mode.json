@@ -1,19 +1,11 @@
 {
-	"other_languages": [
+	"other_games": [
 		{
-			"name": "Dört Harfli Kelime Oyunu",
-			"language": "Türkçe",
-			"url": "https://play.google.com/store/apps/details?id=co.puzly.dhko",
+			"name": "Төрт Тамгалуу Сөз Оюну",
+			"language": "Кыргызча",
+			"url": "https://play.google.com/store/apps/details?id=co.puzly.ttso",
 			"status": "released"
 		},
-		{
-			"name": "Four-Letter Word Puzzle",
-			"language": "English",
-			"url": "https://play.google.com/store/apps/details?id=co.puzly.folwp",
-			"status": "released"
-		}
-	],
-	"other_games": [
 		{
 			"name": "Беш Тамгалуу Сөз Оюну",
 			"language": "Кыргызча",
