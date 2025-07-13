@@ -5,6 +5,10 @@ body_class: page-home
 show_language_options: true
 ---
 
+
+{% include mobile-os-script.html %}
+
+
 <section class="section download-section">
 	<div class="container">
 		<div class="section-content">
