@@ -11,9 +11,18 @@
 						"comment": "Matches any URL with a path that starts with /puzzle/."
 					},
 					{
+						"/": "/reward/*",
+						"comment": "Matches any URL with a path that starts with /reward/."
+					},
+					{
 						"/": "/tr/*",
 						"exclude": true,
 						"comment": "Matches any URL with a path that starts with /tr/ and instructs the system not to open it as a universal link."
+					},
+					{
+						"/": "/kg/*",
+						"exclude": true,
+						"comment": "Matches any URL with a path that starts with /kg/ and instructs the system not to open it as a universal link."
 					}
 				]
 			}
