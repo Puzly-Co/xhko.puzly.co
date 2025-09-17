@@ -20,36 +20,6 @@
 		}
 	],
 	"custom_ads": {
-		"1002": {
-			"ad_id": 1002,
-			"ad_type": 0,
-			"trigger_type": 1,
-			"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Kyrgyzstan_%283-2%29.svg/2560px-Flag_of_Kyrgyzstan_%283-2%29.svg.png",
-			"image_type": 1,
-			"target_url": "https://puzly.co/kg",
-			"display_times": 3,
-			"total_steps": 2
-		},
-		"1003": {
-			"ad_id": 1003,
-			"ad_type": 0,
-			"trigger_type": 5,
-			"image_url": "https://pbs.twimg.com/media/CCshpLyUkAAuoEk.jpg:large",
-			"image_type": 0,
-			"target_url": "https://www.puzly.co/kg/helper/tools.html",
-			"display_times": 1,
-			"total_steps": 1
-		},
-		"1004": {
-			"ad_id": 1004,
-			"ad_type": 0,
-			"trigger_type": 8,
-			"image_url": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/C257/production/_129115794_gettyimages-1331807831-1.jpg",
-			"image_type": 0,
-			"target_url": "https://www.puzly.co/kg/games/new-bes-harfli-kelime-oyunu.html",
-			"display_times": 2,
-			"total_steps": 3
-		}
 	},
 	"first_puzzle_month": {
 		"month": 1,
