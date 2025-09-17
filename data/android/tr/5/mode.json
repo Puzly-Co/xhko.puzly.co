@@ -19,7 +19,38 @@
 			"status": "released"
 		}
 	],
-	"custom_ads": {},
+	"custom_ads": {
+		"1007": {
+			"ad_id": 1007,
+			"ad_type": 0,
+			"trigger_type": 1,
+			"image_url": "https://regioncappadocia.com/wp-content/uploads/2019/01/t%C3%BCrkiye.jpg",
+			"target_url": "https://puzly.co/tr",
+			"display_times": 2,
+			"total_steps": 3,
+			"min_puzzles_completed": 3
+		},
+		"10083": {
+			"ad_id": 1008,
+			"ad_type": 0,
+			"trigger_type": 5,
+			"image_url": "https://uploads.knightlab.com/storymapjs/486f8007259fa0a7d62dfaaae94711b1/explore-turkiye-en/_images/turkey-map-030423.jpg",
+			"target_url": "https://www.puzly.co/tr/helper/tools.html",
+			"display_times": 3,
+			"total_steps": 3,
+			"min_puzzles_completed": 1
+		},
+		"1009": {
+			"ad_id": 1009,
+			"ad_type": 0,
+			"trigger_type": 8,
+			"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1280px-Flag_of_Turkey.svg.png",
+			"target_url": "https://www.puzly.co/tr/games/new-bes-harfli-kelime-oyunu.html",
+			"display_times": 1,
+			"total_steps": 10,
+			"min_puzzles_completed": 5
+		}
+	},
 	"first_puzzle_month": {
 		"month": 12,
 		"year": 2023
