@@ -1,7 +1,5 @@
 {
 	"latest_build": 2,
 	"min_supported_build": 1,
-	"store_url": "https://apps.apple.com/app/be%C5%9F-harfli-kelime-oyunu/id6596769905",
-	"date_api": "https://timeapi.io/api/Time/current/zone?timeZone=Etc/UTC",
-	"date_api_fallback": "https://worldtimeapi.org/api/timezone/Etc/UTC"
+	"store_url": "https://apps.apple.com/app/be%C5%9F-harfli-kelime-oyunu/id6596769905"
 }
